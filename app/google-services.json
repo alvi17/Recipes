@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "80998815966",
+    "firebase_url": "https://eidrecipe.firebaseio.com",
+    "project_id": "eidrecipe",
+    "storage_bucket": "eidrecipe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80998815966:android:6de173f912b049de",
+        "android_client_info": {
+          "package_name": "alvi17.eidrecipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80998815966-0d5a5fl3652k627br2p2kvvke0dppcqo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alvi17.eidrecipe",
+            "certificate_hash": "829f77165150bdb3d0ef561887be1d547602a511"
+          }
+        },
+        {
+          "client_id": "80998815966-uhco6jk96t906hmcls1f4hj7kit37rfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArkCtbw0safLFLvvlKXMW6cpVzJhQU3O8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80998815966-uhco6jk96t906hmcls1f4hj7kit37rfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
